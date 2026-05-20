@@ -22,7 +22,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Distopi&limit=5&theme=merko&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Distopi&theme=merko&combine_all_yearly_contributions=true&hide=html)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Distopi&icon=0&color=3)](https://visitcount.itsvg.in)
